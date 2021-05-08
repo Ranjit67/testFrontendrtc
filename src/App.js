@@ -36,20 +36,7 @@ function App() {
           // urls: 'stun:[STUN_IP]:[PORT]',
           // 'credentials': '[YOR CREDENTIALS]',
           // 'username': '[USERNAME]'
-          urls: [
-            "stun:stun.l.google.com:19302",
-            "stun:stun1.l.google.com:19302",
-            "stun:stun2.l.google.com:19302",
-            "stun:stun3.l.google.com:19302",
-            "stun:stun4.l.google.com:19302",
-            "stun:stun.rixtelecom.se",
-            "stun:stun.schlund.de",
-            "stun:stun.stunprotocol.org:3478",
-            "stun:stun.voiparound.com",
-            "stun:stun.voipbuster.com",
-            "stun:stun.voipstunt.com",
-            "stun:stun.voxgratia.org",
-          ],
+          urls: "stun:stun.l.google.com:19302",
         },
       ],
     };
